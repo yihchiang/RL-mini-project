@@ -27,7 +27,7 @@ For each algorithm, the timesteps are all two million so that we could compare t
 ## Get Started
 The codes of this example are wrriten using Jupyter Notebook.
 
-You can just enter the GitHub URL in Google Colab and run it directly.
+You can just enter the GitHub URL of each algorithm in [Google Colab](https://colab.research.google.com/) and run them directly.
 
 
 ## Result
