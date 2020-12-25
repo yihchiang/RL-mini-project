@@ -12,7 +12,7 @@ You can get the complete tutorial for stable-baselines here: https://stable-base
 Colab
 
 ## Experiment
-In this example, four RL algorithms as below are implemented
+In this example, four RL algorithms as below are implemented:
 - PPO
 - ACKTR
 - SAC
@@ -22,4 +22,4 @@ Hyperparameters were set as it is advised in [RL Baselines Zoo](https://github.c
 
 For each algorithm, the timesteps are all two million so that we could compare them.
 
-## Reslut
+## Result
