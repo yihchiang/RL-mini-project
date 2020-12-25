@@ -31,5 +31,5 @@ You can just enter the GitHub URL of each algorithm in [Google Colab](https://co
 
 
 ## Result
-The results are shown in the TensorBorad as below:
+The results are shown in the TensorBorad:
 
