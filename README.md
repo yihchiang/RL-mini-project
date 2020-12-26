@@ -9,7 +9,7 @@ https://stable-baselines.readthedocs.io/en/master/index.html
 ## Introduction
 [BipedalWalker-v3](https://gym.openai.com/envs/BipedalWalker-v2/) is an environment in OpenAI gym. Reward is given for moving forward, total 300+ points up to the far end. If the robot falls, it gets -100.
 
-[Stable Baselines](https://github.com/hill-a/stable-baselines) is a set of improved implementations of Reinforcement Learning algorithms based on OpenAI [Baselines](https://github.com/openai/baselines).
+[Stable Baselines](https://github.com/hill-a/stable-baselines) is a set of improved implementations of Reinforcement Learning algorithms based on OpenAI [Baselines](https://github.com/openai/baselines). The simplicity of these tools will allow beginners to experiment with a more advanced toolset, without being buried in implementation details.
 
 
 ## Experiment
