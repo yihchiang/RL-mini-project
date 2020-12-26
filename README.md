@@ -19,7 +19,7 @@ In this example, four RL algorithms as below are implemented:
 - SAC
 - TD3
 
-Hyperparameters were set as it is advised in [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo).
+The hyperparameters are set as it is advised in [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo).
 
 For each algorithm, the timesteps are all two million so that we could compare them.
 
